@@ -1,0 +1,6 @@
+c:\users\nsoubrayalou\documents\visual studio 2013\Projects\MyDemoProject\MyDemoProject\bin\Debug\MyDemoProject.exe.config
+c:\users\nsoubrayalou\documents\visual studio 2013\Projects\MyDemoProject\MyDemoProject\bin\Debug\MyDemoProject.exe
+c:\users\nsoubrayalou\documents\visual studio 2013\Projects\MyDemoProject\MyDemoProject\bin\Debug\MyDemoProject.pdb
+c:\users\nsoubrayalou\documents\visual studio 2013\Projects\MyDemoProject\MyDemoProject\obj\Debug\MyDemoProject.csprojResolveAssemblyReference.cache
+c:\users\nsoubrayalou\documents\visual studio 2013\Projects\MyDemoProject\MyDemoProject\obj\Debug\MyDemoProject.exe
+c:\users\nsoubrayalou\documents\visual studio 2013\Projects\MyDemoProject\MyDemoProject\obj\Debug\MyDemoProject.pdb
