@@ -4,3 +4,9 @@ c:\users\nsoubrayalou\documents\visual studio 2013\Projects\MyDemoProject\MyDemo
 c:\users\nsoubrayalou\documents\visual studio 2013\Projects\MyDemoProject\MyDemoProject\obj\Debug\MyDemoProject.csprojResolveAssemblyReference.cache
 c:\users\nsoubrayalou\documents\visual studio 2013\Projects\MyDemoProject\MyDemoProject\obj\Debug\MyDemoProject.exe
 c:\users\nsoubrayalou\documents\visual studio 2013\Projects\MyDemoProject\MyDemoProject\obj\Debug\MyDemoProject.pdb
+C:\Users\nsoubrayalou\Documents\PersonLinqDemo\MyDemoProject\bin\Debug\MyDemoProject.exe.config
+C:\Users\nsoubrayalou\Documents\PersonLinqDemo\MyDemoProject\bin\Debug\MyDemoProject.exe
+C:\Users\nsoubrayalou\Documents\PersonLinqDemo\MyDemoProject\bin\Debug\MyDemoProject.pdb
+C:\Users\nsoubrayalou\Documents\PersonLinqDemo\MyDemoProject\obj\Debug\MyDemoProject.csprojResolveAssemblyReference.cache
+C:\Users\nsoubrayalou\Documents\PersonLinqDemo\MyDemoProject\obj\Debug\MyDemoProject.exe
+C:\Users\nsoubrayalou\Documents\PersonLinqDemo\MyDemoProject\obj\Debug\MyDemoProject.pdb

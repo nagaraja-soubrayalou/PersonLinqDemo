@@ -23,6 +23,12 @@ namespace MyDemoProject
                 Console.WriteLine(string.Format("Found a match for the Person -> {0}", person.Name));
             }
 
+            filteredPerson = new PersonRepository().GetPersonByZip("01234");
+            foreach (var person in filteredPerson)
+            {
+                Console.WriteLine(string.Format("Found a match for the Person by zipcode -> {0}", person.Name));
+            }
+
             Console.Read();
         }
     }
