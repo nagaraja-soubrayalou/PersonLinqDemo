@@ -24,5 +24,12 @@ namespace MyDemoProject
             IEnumerable<Person> result = persons.Where(x => x.Name == name);
             return result.ToList();
         }
+
+        public List<Person> GetPersonByZip(string zipCode)
+        {
+            var persons = GetAllPersons();
+            IEnumerable<Person> result = persons.Where(x => x.ZipCode == zipCode);
+            return result.ToList();
+        }
     }
 }
